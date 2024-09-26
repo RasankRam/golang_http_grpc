@@ -1,0 +1,47 @@
+version: '3.8'
+
+services:
+  http_server:
+    build:
+      context: ./http_server
+      dockerfile: Dockerfile
+    environment:
+      IN_DOCKER: true
+    volumes:
+      - ./http_server:/app
+      - ./task_platform_proto:/task_platform_proto
+    ports:
+      - "${HTTP_PORT}:8080"
+    depends_on:
+      - db
+      - grpc_server
+    networks:
+      - mynet
+
+  grpc_server:
+    build:
+      context: ./grpc_server
+      dockerfile: Dockerfile
+    volumes:
+      - ./grpc_server:/app
+    ports:
+      - "${GRPC_PORT}:5001"
+    depends_on:
+      - db
+    networks:
+      - mynet
+
+  db:
+    image: postgres:latest
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: mydb
+    ports:
+      - "${DB_PORT}:5432"
+    networks:
+      - mynet
+
+networks:
+  mynet:
+    driver: bridge

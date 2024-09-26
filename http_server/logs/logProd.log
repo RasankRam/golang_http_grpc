@@ -1,0 +1,356 @@
+time=2024-09-11T23:07:44.852Z level=INFO source=/app/internal/logger/logger.go:46 msg=bla-bla-bla
+time=2024-09-11T23:09:22.406Z level=INFO source=/app/internal/logger/logger.go:46 msg=bla-bla-bla
+time=2024-09-12T07:17:39.425+08:00 level=INFO source=C:/Users/JOONiX/Desktop/golang/http_server/internal/logger/logger.go:46 msg=bla-bla-bla
+{"time":"2024-09-12T02:32:43.687717552Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:41:12.800510639Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:45:02.812696295Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:45:43.818186361Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:46:42.82891804Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:48:05.339893757Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:49:37.329508881Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:51:40.799223624Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:52:16.316771167Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:53:30.896291419Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:54:43.363915034Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:54:48.825553487Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:55:15.821060725Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:55:28.329732787Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:55:34.809592098Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:56:37.308674853Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:57:16.329118999Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T02:57:42.298111787Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:00:54.776967159Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:01:21.314009939Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:01:37.763515215Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:02:32.808971338Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:03:53.298311927Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:05:56.363190262Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:07:29.290737757Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:07:54.853801934Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:12:11.790569971Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:13:17.764667233Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:15:40.318096343Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:16:23.792344892Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:16:41.228870108Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-12T03:17:33.184700035Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:18:03.355295356Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:23:07.570428697Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:23:48.995464732Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:25:03.476246166Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:26:27.516493465Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:27:18.435609247Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:28:06.03930698Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:28:23.487475483Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:28:41.453976179Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:34:54.525030676Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:39:17.360318232Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:41:13.048499739Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:42:46.438168702Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:45:39.909555993Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:47:11.090968464Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:49:20.994841951Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:51:43.520183765Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:51:56.497351296Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:53:11.559581893Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:53:59.078301699Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:54:14.925755769Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:54:51.395621429Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T04:55:47.757828892Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:05:21.429537893Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:10:04.404768924Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:10:20.942814318Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:13:54.115279631Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:16:54.41861246Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:20:09.886113663Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:20:28.931940207Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:20:42.415529875Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:20:50.575031298Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:22:22.346619494Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:22:50.842035333Z","level":"ERROR","msg":"","error":{"msg":"Invalid to get user by login","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":30},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":58},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T05:26:02.435967892Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:26:47.901554541Z","level":"ERROR","msg":"","error":{"msg":"Invalid to get user by login","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":30},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":58},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T05:27:20.089541302Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:28:53.443311982Z","level":"ERROR","msg":"","error":{"msg":"Invalid to get user by login","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":30},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":58},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T05:29:36.670648817Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:29:38.803925475Z","level":"ERROR","msg":"","error":{"msg":"Invalid to get user by login","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":30},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":58},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T05:30:03.231442863Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:30:03.630452078Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:30:36.037712712Z","level":"ERROR","msg":"","error":{"msg":"Invalid to get user by login","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":30},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":58},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T05:36:44.643553042Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:38:03.613096594Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:39:00.099700042Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:39:25.136186597Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:39:28.924242013Z","level":"ERROR","msg":"","error":{"msg":"Invalid to get user by login","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":30},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":58},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T05:44:38.444078584Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:44:52.246549846Z","level":"ERROR","msg":"","error":{"msg":"Invalid to get user by login","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":30},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":58},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T05:45:58.749823258Z","level":"ERROR","msg":"","error":{"msg":"Invalid to get user by login","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":30},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":58},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T05:46:25.804746775Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:48:48.169762551Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:49:15.489373781Z","level":"ERROR","msg":"","error":{"msg":"Invalid to get user by login","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":30},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":58},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T05:51:48.871936135Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:52:05.864148736Z","level":"ERROR","msg":"","error":{"msg":"Invalid to get user by login","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":30},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":58},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T05:54:38.498294971Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:54:42.488131484Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:55:51.242012094Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:57:18.480256453Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:57:48.930643565Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T05:57:57.124564416Z","level":"ERROR","msg":"","error":{"msg":"Invalid to get user by login","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":30},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":58},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T05:58:02.20947675Z","level":"ERROR","msg":"","error":{"msg":"Invalid to get user by login","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":30},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":58},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T06:09:10.442537436Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:13:01.407891465Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:17:07.510559993Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:19:13.471907768Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:20:00.939704781Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:21:24.405589861Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:22:36.486494735Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:24:20.457915357Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:24:44.519136838Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:25:18.515656122Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:26:52.00589283Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:27:19.980260006Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:27:23.397972419Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:27:25.576889095Z","level":"ERROR","msg":"","error":{"msg":"ERROR: column \"ip\" of relation \"tokens\" does not exist (SQLSTATE 42703)","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":53},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T06:29:14.534032127Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:32:56.244116341Z","level":"ERROR","msg":"","error":{"msg":"sql: no rows in result set","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":53},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T06:34:22.157600916Z","level":"ERROR","msg":"","error":{"msg":"sql: no rows in result set","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":53},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T06:35:04.159227612Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:41:00.752012762Z","level":"ERROR","msg":"","error":{"msg":"ERROR: duplicate key value violates unique constraint \"unique_user_agent_ip\" (SQLSTATE 23505)","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":53},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T06:42:29.854599296Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:45:56.693095456Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:46:20.728115454Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:46:32.740985893Z","level":"ERROR","msg":"","error":{"msg":"ERROR: duplicate key value violates unique constraint \"unique_user_agent_ip\" (SQLSTATE 23505)","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":57},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T06:47:36.694005296Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:47:48.717116423Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:47:55.689615689Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:48:03.872615245Z","level":"ERROR","msg":"","error":{"msg":"ERROR: duplicate key value violates unique constraint \"unique_user_agent_ip\" (SQLSTATE 23505)","trace":[{"func":"services.(*AuthService).Login","source":"services/authService.go","line":60},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T06:56:22.28343922Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T06:58:24.622806201Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T07:00:55.703946497Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T07:01:19.056750921Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T07:03:24.197937175Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T07:04:43.217750404Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T07:05:01.89048573Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T07:06:54.678393191Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T07:08:44.234500328Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T07:15:31.65259799Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T07:16:47.192906282Z","level":"ERROR","msg":"","error":{"msg":"ERROR: INSERT has more expressions than target columns (SQLSTATE 42601)","trace":[{"func":"services.(*AuthService).Register","source":"services/authService.go","line":97},{"func":"controllers.(*AuthController).Register","source":"controllers/authController.go","line":74},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T07:18:22.088667751Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T07:18:56.781530686Z","level":"ERROR","msg":"","error":{"msg":"ERROR: duplicate key value violates unique constraint \"users_login_key\" (SQLSTATE 23505)","trace":[{"func":"services.(*AuthService).Register","source":"services/authService.go","line":97},{"func":"controllers.(*AuthController).Register","source":"controllers/authController.go","line":74},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T08:17:15.336001504Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:18:13.214483217Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:18:40.732624369Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:19:12.205989081Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:20:46.223159362Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:21:14.213702092Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:21:38.207225851Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:22:30.229304369Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:23:07.696396467Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:24:05.196977339Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:24:10.179684117Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:25:06.725687184Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:25:27.657582932Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:26:01.726225581Z","level":"ERROR","msg":"","error":{"msg":"ERROR: duplicate key value violates unique constraint \"users_login_key\" (SQLSTATE 23505)","trace":[{"func":"services.(*AuthService).Register","source":"services/authService.go","line":106},{"func":"controllers.(*AuthController).Register","source":"controllers/authController.go","line":74},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T08:26:57.638868597Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:27:54.170214503Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:27:56.694208736Z","level":"ERROR","msg":"","error":{"msg":"sql: no rows in result set","trace":[{"func":"services.(*AuthService).Register","source":"services/authService.go","line":103},{"func":"controllers.(*AuthController).Register","source":"controllers/authController.go","line":74},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T08:28:03.657251965Z","level":"ERROR","msg":"","error":null}
+{"time":"2024-09-14T08:28:10.639361052Z","level":"ERROR","msg":"","error":null}
+{"time":"2024-09-14T08:28:33.735280409Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:29:18.758730633Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:40:11.930476473Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:40:56.790374235Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:43:48.253193033Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:47:01.240715402Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:58:01.032641533Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T08:58:59.197041168Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:03:40.742208433Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:06:33.726222396Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:07:39.654962861Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:07:56.680462603Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:13:21.738650106Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:15:16.238634357Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:15:34.70629564Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:15:52.139660758Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:16:22.194050524Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:16:30.780968365Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:16:39.299715921Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:16:44.756827512Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:16:48.861560919Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:16:54.858536881Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:17:08.308147691Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:17:19.698737844Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:18:05.192878824Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:19:25.81192734Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:21:33.203385005Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:23:06.588974003Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:24:31.866736616Z","level":"ERROR","msg":"","error":{"msg":"ERROR: duplicate key value violates unique constraint \"unique_user_agent_ip\" (SQLSTATE 23505)","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"services.(*AuthService).Login","source":"services/authService.go","line":58},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T09:27:55.132337976Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:29:32.632166754Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:29:48.637490511Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:31:22.274657901Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:31:30.672750549Z","level":"ERROR","msg":"","error":{"msg":"missing destination name user_agent in *models.Token","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"routes.SetupTodoRoutes.AuthMiddleware.func1","source":"mw/authMw.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"routes.SetupTodoRoutes.StripPrefix.func2","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T09:31:48.240374585Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:41:05.851746951Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:42:40.693677177Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:44:10.24313608Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:45:20.667215967Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:45:41.750358814Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:47:17.695331921Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:48:25.167769811Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:49:35.672217372Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:51:01.238403427Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:51:09.708628134Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:51:22.69410956Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:53:16.213977952Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:55:19.183224412Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:55:57.659507114Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:56:38.662123829Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:57:09.691259688Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:58:28.619005547Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T09:59:38.617497016Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:02:16.576571768Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:10:02.681861906Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:12:23.656147662Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:14:08.177109505Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:15:02.171711798Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:15:38.677144756Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:17:57.1357293Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:18:21.339656806Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:19:10.739625652Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:19:50.423844345Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:25:43.542243561Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:26:06.093915648Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:30:11.669233699Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:31:57.452139016Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:32:34.44109562Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:33:30.566669947Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:49:55.213312834Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:49:55.995850622Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:50:23.984036693Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:50:50.047491019Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:51:15.537137707Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:52:22.996918554Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:53:08.493256093Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:53:24.965097598Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:53:37.445888027Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:54:16.460910459Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:54:44.950126437Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:56:07.446211129Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:56:15.967319899Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:56:18.115694425Z","level":"ERROR","msg":"","error":{"msg":"ERROR: syntax error at or near \":\" (SQLSTATE 42601)","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"services.(*TodoService).AddTodo","source":"services/todoService.go","line":50},{"func":"controllers.(*TodoController).AddTodo","source":"controllers/todoController.go","line":81},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupTodoRoutes.AuthMiddleware.func1","source":"mw/authMw.go","line":42},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"routes.SetupTodoRoutes.StripPrefix.func2","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T10:56:53.566281331Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:56:58.451188367Z","level":"ERROR","msg":"","error":{"msg":"ERROR: syntax error at or near \":\" (SQLSTATE 42601)","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"services.(*TodoService).AddTodo","source":"services/todoService.go","line":50},{"func":"controllers.(*TodoController).AddTodo","source":"controllers/todoController.go","line":81},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupTodoRoutes.AuthMiddleware.func1","source":"mw/authMw.go","line":42},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"routes.SetupTodoRoutes.StripPrefix.func2","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T10:58:34.056292197Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T10:59:19.946521956Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:02:24.429231697Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:05:43.949347061Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:06:52.936251025Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:07:12.658812929Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:07:50.401832525Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:08:02.593366229Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:09:14.501188271Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:10:35.099476842Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:11:30.05111934Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:12:06.989126381Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:12:14.504533393Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:12:43.961984465Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:14:17.443753204Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:14:47.911321081Z","level":"ERROR","msg":"","error":{"msg":"sql: no rows in result set","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"routes.SetupTodoRoutes.AuthMiddleware.func1","source":"mw/authMw.go","line":33},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"routes.SetupTodoRoutes.StripPrefix.func2","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T11:15:02.528127729Z","level":"ERROR","msg":"","error":{"msg":"expected 3 arguments, got 4","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"services.(*TodoService).UpdateTodo","source":"services/todoService.go","line":72},{"func":"controllers.(*TodoController).UpdateTodo","source":"controllers/todoController.go","line":131},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupTodoRoutes.AuthMiddleware.func1","source":"mw/authMw.go","line":42},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"routes.SetupTodoRoutes.StripPrefix.func2","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T11:15:43.948190503Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-14T11:15:45.479541612Z","level":"ERROR","msg":"","error":{"msg":"sql: Scan error on column index 5, name \"created_at\": converting NULL to string is unsupported","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"services.(*TodoService).UpdateTodo","source":"services/todoService.go","line":72},{"func":"controllers.(*TodoController).UpdateTodo","source":"controllers/todoController.go","line":131},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupTodoRoutes.AuthMiddleware.func1","source":"mw/authMw.go","line":42},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"routes.SetupTodoRoutes.StripPrefix.func2","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-14T11:15:47.850492037Z","level":"ERROR","msg":"","error":{"msg":"sql: Scan error on column index 5, name \"created_at\": converting NULL to string is unsupported","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"services.(*TodoService).UpdateTodo","source":"services/todoService.go","line":72},{"func":"controllers.(*TodoController).UpdateTodo","source":"controllers/todoController.go","line":131},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupTodoRoutes.AuthMiddleware.func1","source":"mw/authMw.go","line":42},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"routes.SetupTodoRoutes.StripPrefix.func2","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-17T03:26:04.923918676Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T03:26:10.763336201Z","level":"ERROR","msg":"","error":{"msg":"crypto/bcrypt: hashedPassword is not the hash of the given password","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"services.(*AuthService).Login","source":"services/authService.go","line":40},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-17T03:26:18.735770346Z","level":"ERROR","msg":"","error":{"msg":"crypto/bcrypt: hashedPassword is not the hash of the given password","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"services.(*AuthService).Login","source":"services/authService.go","line":40},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-17T03:27:13.374715004Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T03:27:22.282628539Z","level":"ERROR","msg":"","error":{"msg":"crypto/bcrypt: hashedPassword is not the hash of the given password","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"services.(*AuthService).Login","source":"services/authService.go","line":40},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-17T03:27:37.402738166Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T03:28:29.732198317Z","level":"ERROR","msg":"","error":{"msg":"crypto/bcrypt: hashedPassword is not the hash of the given password","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"services.(*AuthService).Login","source":"services/authService.go","line":40},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-17T03:28:41.050357342Z","level":"ERROR","msg":"","error":{"msg":"crypto/bcrypt: hashedPassword is not the hash of the given password","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"services.(*AuthService).Login","source":"services/authService.go","line":40},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-17T05:31:08.578072016Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T05:31:59.020705214Z","level":"ERROR","msg":"","error":{"msg":"ERROR: duplicate key value violates unique constraint \"unique_user_agent_ip\" (SQLSTATE 23505)","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"services.(*AuthService).Login","source":"services/authService.go","line":58},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-17T05:32:06.137488527Z","level":"ERROR","msg":"","error":{"msg":"crypto/bcrypt: hashedPassword is not the hash of the given password","trace":[{"func":"utils.LogErrorContext","source":"utils/logErrorContext.go","line":10},{"func":"services.(*AuthService).Login","source":"services/authService.go","line":40},{"func":"controllers.(*AuthController).Login","source":"controllers/authController.go","line":32},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"routes.SetupAuthRoutes.StripPrefix.func1","source":"http/server.go","line":2282},{"func":"http.HandlerFunc.ServeHTTP","source":"http/server.go","line":2220},{"func":"http.(*ServeMux).ServeHTTP","source":"http/server.go","line":2747},{"func":"http.serverHandler.ServeHTTP","source":"http/server.go","line":3210},{"func":"http.(*conn).serve","source":"http/server.go","line":2092},{"func":"runtime.goexit","source":"runtime/asm_amd64.s","line":1700}]}}
+{"time":"2024-09-17T05:32:32.508616736Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T05:35:35.533778875Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T05:36:06.480311669Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T05:36:09.004762711Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T05:36:20.013304182Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T05:37:00.030728697Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T05:37:03.023058463Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T05:37:09.059251329Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T05:37:14.023269354Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T05:38:15.998917175Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T05:39:13.03886324Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T05:44:27.174211128Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T05:44:43.603539301Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T12:13:34.702852334Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T12:13:44.682609609Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T12:13:47.162905964Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T12:15:05.620065684Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T12:15:19.578251314Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T12:17:23.621716395Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T12:17:57.588640067Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T12:18:05.12350434Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T12:18:11.034162491Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-17T12:18:25.652321614Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T02:46:22.121683753Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T02:46:49.539538437Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T02:48:08.971219997Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T02:49:02.383591087Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T02:49:09.916111004Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T02:53:16.5614158Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T02:53:48.572267757Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T02:55:21.762388417Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T02:58:41.782495844Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T03:00:22.5538821Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T03:19:57.685719346Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T03:22:10.129859277Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T03:25:36.144117232Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T03:29:02.193231916Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T03:39:00.263835659Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T03:40:20.080131248Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T03:41:56.706293396Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T03:56:24.083486975Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T03:56:30.111916014Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T03:57:40.652526916Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T04:01:30.69002994Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T04:03:11.257808685Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T04:05:21.221689708Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T04:06:10.689730548Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T04:07:23.201508802Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T04:08:36.737826534Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T04:08:59.561131262Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T06:34:59.222417317Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T06:43:51.105212918Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T06:44:43.531030197Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T06:48:55.536986587Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-18T06:49:00.603049411Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T04:44:25.814483518Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T04:52:21.925745275Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T04:52:25.561715202Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T05:02:18.529730087Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T05:05:03.50142823Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T05:07:43.941312821Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T05:07:48.899775933Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T05:08:04.386271779Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T05:10:17.956034882Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T05:10:21.06000184Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T05:13:06.385731163Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T05:13:10.0608109Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T05:13:19.978001276Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T07:44:26.420709805Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-19T07:44:53.44338397Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-22T13:47:00.178977779Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-22T15:31:35.739814235Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-22T15:32:40.226515648Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-22T15:33:46.927382186Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-22T15:37:28.373470624Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-22T15:40:23.860709068Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-22T15:42:46.41590126Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-22T15:43:16.473086825Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-22T15:43:59.440539719Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-22T15:45:33.229441127Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-22T15:49:25.706641877Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-22T15:49:27.743023941Z","level":"INFO","msg":"bla-bla-bla_123"}
+{"time":"2024-09-22T15:53:09.904095555Z","level":"INFO","msg":"bla-bla-bla_123"}
